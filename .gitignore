@@ -1,0 +1,51 @@
+# =============== #
+# Python #
+# =============== #
+
+/env
+# =============== #
+# Unity generated #
+# =============== #
+/astroAsteroids/[Tt]emp/
+/astroAsteroids/[Oo]bj/
+/astroAsteroids/[Bb]uild
+/astroAsteroids//[Bb]uilds/
+/astroAsteroids/[Ll]ibrary/
+/astroAsteroids/astroAsteroids/
+/astroAsteroids/sysinfo.txt
+/astroAsteroids/*.stackdump
+/astroAsteroids//Assets/AssetStoreTools*
+/astroAsteroids/*.apk
+/astroAsteroids/*.unitypackage
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+/astroAsteroids/[Ee]xported[Oo]bj/
+/astroAsteroids/.vs/
+/astroAsteroids/*.userprefs
+/astroAsteroids/*.csproj
+/astroAsteroids/*.pidb
+/astroAsteroids/*.pidb.meta
+/astroAsteroids/*.suo
+/astroAsteroids/*.sln*
+/astroAsteroids/*.user
+/astroAsteroids/*.unityproj
+/astroAsteroids/*.booproj
+/astroAsteroids/.consulo/
+/astroAsteroids/*.tmp
+/astroAsteroids/*.svd
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+/astroAsteroids/._*
+/astroAsteroids/.Spotlight-V100
+/astroAsteroids/.Trashes
+/astroAsteroids/Icon?
+/astroAsteroids/ehthumbs.db
+/astroAsteroids/[Tt]humbs.db
+/astroAsteroids/[Dd]esktop.ini
+/astroAsteroids/Corridor/Library/ShaderCache/
+/astroAsteroids/Corridor/Library/metadata/
